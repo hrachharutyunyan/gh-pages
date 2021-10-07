@@ -3,10 +3,94 @@
     <title>notfilmmaker</title>
     <link href="https://hrachharutyunyan.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://hrachharutyunyan.github.io/gh-pages" />
-    <updated>1969-12-31T16:00:00-08:00</updated>
+    <updated>2021-10-07T03:45:42-07:00</updated>
     <author>
         <name>Hrachya Harutyunyan</name>
     </author>
     <id>https://hrachharutyunyan.github.io/gh-pages</id>
 
+    <entry>
+        <title>Adobe Lightroom</title>
+        <author>
+            <name>Hrachya Harutyunyan</name>
+        </author>
+        <link href="https://hrachharutyunyan.github.io/gh-pages/adobe-lightroom.html"/>
+        <id>https://hrachharutyunyan.github.io/gh-pages/adobe-lightroom.html</id>
+            <category term="Softwere"/>
+            <category term="Adobe"/>
+
+        <updated>2021-10-07T03:45:06-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Adobe Audition</title>
+        <author>
+            <name>Hrachya Harutyunyan</name>
+        </author>
+        <link href="https://hrachharutyunyan.github.io/gh-pages/adobe-audition.html"/>
+        <id>https://hrachharutyunyan.github.io/gh-pages/adobe-audition.html</id>
+            <category term="Softwere"/>
+            <category term="Adobe"/>
+
+        <updated>2021-10-07T03:45:42-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Adobe After Effects</title>
+        <author>
+            <name>Hrachya Harutyunyan</name>
+        </author>
+        <link href="https://hrachharutyunyan.github.io/gh-pages/adobe-after-effects.html"/>
+        <id>https://hrachharutyunyan.github.io/gh-pages/adobe-after-effects.html</id>
+            <category term="Softwere"/>
+            <category term="Adobe"/>
+
+        <updated>2021-10-06T22:43:55-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Adobe Media Encoder</title>
+        <author>
+            <name>Hrachya Harutyunyan</name>
+        </author>
+        <link href="https://hrachharutyunyan.github.io/gh-pages/adobe-media-encoder.html"/>
+        <id>https://hrachharutyunyan.github.io/gh-pages/adobe-media-encoder.html</id>
+            <category term="Softwere"/>
+            <category term="Adobe"/>
+
+        <updated>2021-10-06T22:44:04-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Adobe Photoshop</title>
+        <author>
+            <name>Hrachya Harutyunyan</name>
+        </author>
+        <link href="https://hrachharutyunyan.github.io/gh-pages/adobe-photoshop.html"/>
+        <id>https://hrachharutyunyan.github.io/gh-pages/adobe-photoshop.html</id>
+            <category term="Softwere"/>
+            <category term="Adobe"/>
+
+        <updated>2021-10-06T22:44:11-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Adobe Premiere Pro</title>
+        <author>
+            <name>Hrachya Harutyunyan</name>
+        </author>
+        <link href="https://hrachharutyunyan.github.io/gh-pages/adobe-premiere-pro.html"/>
+        <id>https://hrachharutyunyan.github.io/gh-pages/adobe-premiere-pro.html</id>
+            <category term="Softwere"/>
+            <category term="Adobe"/>
+
+        <updated>2021-10-06T22:44:18-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>

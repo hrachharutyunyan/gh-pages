@@ -9,5 +9,89 @@
         "name": "Hrachya Harutyunyan"
     },
     "items": [
+        {
+            "id": "https://hrachharutyunyan.github.io/gh-pages/adobe-lightroom.html",
+            "url": "https://hrachharutyunyan.github.io/gh-pages/adobe-lightroom.html",
+            "title": "Adobe Lightroom",
+            "author": {
+                "name": "Hrachya Harutyunyan"
+            },
+            "tags": [
+                   "Softwere",
+                   "Adobe"
+            ],
+            "date_published": "2021-10-06T22:35:55-07:00",
+            "date_modified": "2021-10-07T03:45:06-07:00"
+        },
+        {
+            "id": "https://hrachharutyunyan.github.io/gh-pages/adobe-audition.html",
+            "url": "https://hrachharutyunyan.github.io/gh-pages/adobe-audition.html",
+            "title": "Adobe Audition",
+            "author": {
+                "name": "Hrachya Harutyunyan"
+            },
+            "tags": [
+                   "Softwere",
+                   "Adobe"
+            ],
+            "date_published": "2021-10-06T22:35:05-07:00",
+            "date_modified": "2021-10-07T03:45:42-07:00"
+        },
+        {
+            "id": "https://hrachharutyunyan.github.io/gh-pages/adobe-after-effects.html",
+            "url": "https://hrachharutyunyan.github.io/gh-pages/adobe-after-effects.html",
+            "title": "Adobe After Effects",
+            "author": {
+                "name": "Hrachya Harutyunyan"
+            },
+            "tags": [
+                   "Softwere",
+                   "Adobe"
+            ],
+            "date_published": "2021-10-06T22:34:33-07:00",
+            "date_modified": "2021-10-06T22:43:55-07:00"
+        },
+        {
+            "id": "https://hrachharutyunyan.github.io/gh-pages/adobe-media-encoder.html",
+            "url": "https://hrachharutyunyan.github.io/gh-pages/adobe-media-encoder.html",
+            "title": "Adobe Media Encoder",
+            "author": {
+                "name": "Hrachya Harutyunyan"
+            },
+            "tags": [
+                   "Softwere",
+                   "Adobe"
+            ],
+            "date_published": "2021-10-06T22:34:18-07:00",
+            "date_modified": "2021-10-06T22:44:04-07:00"
+        },
+        {
+            "id": "https://hrachharutyunyan.github.io/gh-pages/adobe-photoshop.html",
+            "url": "https://hrachharutyunyan.github.io/gh-pages/adobe-photoshop.html",
+            "title": "Adobe Photoshop",
+            "author": {
+                "name": "Hrachya Harutyunyan"
+            },
+            "tags": [
+                   "Softwere",
+                   "Adobe"
+            ],
+            "date_published": "2021-10-06T22:34:06-07:00",
+            "date_modified": "2021-10-06T22:44:11-07:00"
+        },
+        {
+            "id": "https://hrachharutyunyan.github.io/gh-pages/adobe-premiere-pro.html",
+            "url": "https://hrachharutyunyan.github.io/gh-pages/adobe-premiere-pro.html",
+            "title": "Adobe Premiere Pro",
+            "author": {
+                "name": "Hrachya Harutyunyan"
+            },
+            "tags": [
+                   "Softwere",
+                   "Adobe"
+            ],
+            "date_published": "2021-10-06T22:33:52-07:00",
+            "date_modified": "2021-10-06T22:44:18-07:00"
+        }
     ]
 }
